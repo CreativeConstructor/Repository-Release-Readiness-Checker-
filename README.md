@@ -53,6 +53,12 @@ If you prefer running the services locally:
    ```bash
    npm run dev:all
    ```
+## Screen Shots
+<img width="2237" height="1215" alt="image" src="https://github.com/user-attachments/assets/0e4f1e99-96ab-41d4-ab86-9d7a12d2f525" />
+<img width="2193" height="1200" alt="image" src="https://github.com/user-attachments/assets/c6a3e50c-54b4-4240-9d22-fa6ab11613da" />
+<img width="2229" height="1205" alt="image" src="https://github.com/user-attachments/assets/9427b9b0-23fa-4467-a166-272d5366faed" />
+<img width="2199" height="1200" alt="image" src="https://github.com/user-attachments/assets/fdfddf41-9635-490f-9c4b-20d54ba87d7a" />
+<img width="2215" height="1187" alt="image" src="https://github.com/user-attachments/assets/a6180c58-2cf3-4582-adaf-423eca6faa61" />
 
 ## API Endpoints
 - `GET /health` - Service health check
