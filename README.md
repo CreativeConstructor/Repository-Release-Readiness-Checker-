@@ -31,7 +31,6 @@ Copy `.env.example` to `.env` and fill in the required values:
 ```bash
 cp .env.example .env
 ```
-*(Note: Ensure you do not commit real secrets to version control. They are ignored in `.gitignore` by default.)*
 
 ### 2. Running with Docker (Recommended)
 You can spin up the entire stack (API, Background Worker, PostgreSQL, and Redis) using Docker Compose:
